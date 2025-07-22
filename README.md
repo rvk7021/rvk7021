@@ -1,127 +1,126 @@
 <div align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="MasterHead"/>
+    <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="Header Animation" />
   </a>
 </div>
 
-<h1 align="center">Hello Folks!! 👋, Myself Ranvijay Kumar</h1>
-<h3 align="center">A Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<h1 align="center">Hey there! 👋 I'm Ranvijay Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | ML Enthusiast | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rvk7021&label=Profile%20views&color=0e75b6&style=flat" alt="rvk7021" /> </p>
+<p align="center"><em>"The builder who can build at 10x. You want 20x? Guess we have a conflict."</em></p>
 
-- 🌱 Enhancing and improving my strength in **ML and Web**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+robust+Web+Apps;Scaling+Backends+with+Node.js;Loving+Open+Source;Always+Learning..." alt="Typing SVG" />
+</div>
 
-- 👨‍💻 My portfolio [ranvijayk.netlify.app](https://ranvijayk.netlify.app)
+---
 
-- 💬 What I do? **Full Stack Developer**
 
-- 📫 Contact me through **rvkofficial1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ranvijay-kumar-825457255/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ranvijay Kumar LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/r_v_k" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef RVK" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/pheonix_rvk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces Phoenix RVK" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/phoenix_rvk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Phoenix RVK" height="30" width="40" />
-  </a>
+<h2 align="center" style="font-family: 'Segoe UI', 'Fira Sans', Arial, sans-serif; font-size: 2rem; font-weight: 700; letter-spacing: 1px; color: #fff;">🧠 About Me</h2>
+<p align="center" style="font-size: 1.25rem; font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; color: #fff; margin-bottom: 0.5em;">
+  <span style="font-weight: 700; color: #6c63ff;">🧩 A curious software developer</span>
+  <span style="color: #fff;"> who loves </span>
+  <span style="font-weight: 700; color: #6c63ff;">solving real-world problems</span>
+  <span style="color: #fff;"> and </span>
+  <span style="font-weight: 700; color: #6c63ff;">building things that matter 🚀</span>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<h4>Frontend</h4>
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/>
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  </a>
+<h3 align="center" style="font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; color: #6c63ff; font-weight: 700;">✨ Interests</h3>
+<p align="center" style="font-size: 1.1rem; font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; color: #fff;">
+  <span style="color: #6c63ff; font-weight: 600;">AI</span> &nbsp;|&nbsp;
+  <span style="color: #6c63ff; font-weight: 600;">Software Engineering</span> &nbsp;|&nbsp;
+  <span style="color: #6c63ff; font-weight: 600;">Automations</span>
 </p>
 
-<h4>Backend</h4>
-<p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
+
+---
+
+
+<h2 align="center" style="font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; font-size: 1.7rem; font-weight: 700; color: #6c63ff; letter-spacing: 1px;">🌐 Connect with Me</h2>
+<p align="center" style="font-size: 1.1rem; font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; color: #fff; font-weight: 500;">
+  <a href="https://ranvijayk.netlify.app" style="color: #40c4ff; text-decoration: underline; font-weight: 600;">Portfolio</a> &nbsp;|&nbsp;
+  <span style="color: #00e676; font-weight: 600;">Email: <a href="mailto:rvkofficial1@gmail.com" style="color: #00e676; text-decoration: underline; font-weight: 600;">rvkofficial1@gmail.com</a></span> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/ranvijay-kumar-825457255/" style="color: #82b1ff; text-decoration: underline; font-weight: 600;">LinkedIn</a>
 </p>
 
-<h4>Tools & Frameworks</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a> 
-  <a href="https://zapier.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  </a> 
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" width="40" height="40"/>
-  </a>
+<h2 align="center">🏆 Problem Solving Platforms</h2>
+<p align="center">
+  <a href="https://www.codechef.com/users/r_v_k"><img src="https://img.shields.io/badge/CodeChef-%23584e4e?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://codeforces.com/profile/pheonix_rvk"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.leetcode.com/phoenix_rvk"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
-<h4>Data & Machine Learning</h4>
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="40" height="40"/>
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
+---
+
+
+
+<div align="center">
+
+<h2>🌐 Languages</h2>
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
 </p>
 
-<h3 align="left">GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvk7021&layout=compact&theme=dark" alt="Top Languages">
+<h2>🛠️ Tech Stack</h2>
+
+<table>
+  <tr>
+    <th>👨‍💻 Frontend</th>
+    <th>🔙 Backend</th>
+    <th>🧰 Tools & DevOps</th>
+    <th>🧪 ML, Data & AI</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/>
+      <!-- JavaScript is listed above in Languages -->
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/><br/>
+      <!-- TypeScript is listed above in Languages -->
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rvk7021&show_icons=true&theme=tokyonight" alt="RVK GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvk7021&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
 </p>
+
+---
+
+> _"Consistency beats intensity. Every single time."_  
+> — Ranvijay Kumar
