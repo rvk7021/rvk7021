@@ -16,21 +16,21 @@
 ---
 
 
-<h2 align="center" style="font-family: 'Montserrat', 'Fira Sans', 'Segoe UI', Arial, sans-serif; font-size: 2.2rem; font-weight: 800; letter-spacing: 2px; color: #ff9800; text-shadow: 1px 1px 8px #2228;">🧠 About Me</h2>
-<p align="center" style="font-size: 1.35rem; font-family: 'Montserrat', 'Fira Sans', 'Segoe UI', Arial, sans-serif; color: #fff; margin-bottom: 0.5em; font-weight: 600; line-height: 1.6; letter-spacing: 0.5px;">
-  <span style="color: #ff9800; font-weight: 800;">🧩 Passionate about building impactful digital experiences</span>
-  <span style="color: #fff;">, I thrive at the intersection of </span>
-  <span style="color: #ff9800; font-weight: 800;">software engineering</span>
-  <span style="color: #fff;"> and </span>
-  <span style="color: #ff9800; font-weight: 800;">AI innovation</span>
-  <span style="color: #fff;">. I enjoy architecting scalable systems, automating workflows, and solving real-world problems with code. <span style="color: #ff9800; font-weight: 800;">Always learning, always building, always sharing.</span> 🚀</span>
+
+<h2 align="center">🧠 About Me</h2>
+
+<p align="center">
+<b>🧩 Passionate about building impactful digital experiences</b>, I thrive at the intersection of <b>software engineering</b> and <b>AI innovation</b>.<br>
+I enjoy architecting scalable systems, automating workflows, and solving real-world problems with code.<br>
+<b>Always learning, always building, always sharing.</b> 🚀
 </p>
 
-<h3 align="center" style="font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; color: #ff9800; font-weight: 700;">✨ Interests</h3>
-<p align="center" style="font-size: 1.1rem; font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; color: #fff; max-width: 700px; margin: 0 auto;">
-  <span style="color: #ff9800; font-weight: 600;">Artificial Intelligence</span>: Exploring deep learning, NLP, and generative models to create smarter, more adaptive applications.<br/>
-  <span style="color: #ff9800; font-weight: 600;">Software Engineering</span>: Designing robust architectures, writing clean code, and mentoring others in best practices.<br/>
-  <span style="color: #ff9800; font-weight: 600;">Automations</span>: Building tools and scripts that save time, reduce errors, and empower teams to focus on what matters most.
+<h3 align="center">✨ Interests</h3>
+
+<p align="center">
+<b>Artificial Intelligence:</b> Exploring deep learning, NLP, and generative models to create smarter, more adaptive applications.<br>
+<b>Software Engineering:</b> Designing robust architectures, writing clean code, and mentoring others in best practices.<br>
+<b>Automations:</b> Building tools and scripts that save time, reduce errors, and empower teams to focus on what matters most.
 </p>
 
 
