@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Hey there! 👋 I'm Ranvijay Kumar</h1>
+<h1 align="center">Ranvijay Kumar - A Developer</h1>
 <h3 align="center">🚀 Full Stack Developer | ML Enthusiast | Problem Solver</h3>
 
 <p align="center"><em>"The builder who can build at 10x. You want 20x? Guess we have a conflict."</em></p>
