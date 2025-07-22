@@ -15,56 +15,102 @@
 
 ---
 
-### 🧠 About Me
 
-- 🔭 Currently diving deeper into **Machine Learning** and advanced **Full Stack development**
-- 🧑‍💻 Portfolio: [ranvijayk.netlify.app](https://ranvijayk.netlify.app)
-- 📫 Reach me at: **rvkofficial1@gmail.com**
+<h2 align="center" style="font-family: 'Montserrat', 'Fira Sans', 'Segoe UI', Arial, sans-serif; font-size: 2.2rem; font-weight: 800; letter-spacing: 2px; color: #ff9800; text-shadow: 1px 1px 8px #2228;">🧠 About Me</h2>
+<p align="center" style="font-size: 1.35rem; font-family: 'Montserrat', 'Fira Sans', 'Segoe UI', Arial, sans-serif; color: #fff; margin-bottom: 0.5em; font-weight: 600; line-height: 1.6; letter-spacing: 0.5px;">
+  <span style="color: #ff9800; font-weight: 800;">🧩 Passionate about building impactful digital experiences</span>
+  <span style="color: #fff;">, I thrive at the intersection of </span>
+  <span style="color: #ff9800; font-weight: 800;">software engineering</span>
+  <span style="color: #fff;"> and </span>
+  <span style="color: #ff9800; font-weight: 800;">AI innovation</span>
+  <span style="color: #fff;">. I enjoy architecting scalable systems, automating workflows, and solving real-world problems with code. <span style="color: #ff9800; font-weight: 800;">Always learning, always building, always sharing.</span> 🚀</span>
+</p>
+
+<h3 align="center" style="font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; color: #ff9800; font-weight: 700;">✨ Interests</h3>
+<p align="center" style="font-size: 1.1rem; font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; color: #fff; max-width: 700px; margin: 0 auto;">
+  <span style="color: #ff9800; font-weight: 600;">Artificial Intelligence</span>: Exploring deep learning, NLP, and generative models to create smarter, more adaptive applications.<br/>
+  <span style="color: #ff9800; font-weight: 600;">Software Engineering</span>: Designing robust architectures, writing clean code, and mentoring others in best practices.<br/>
+  <span style="color: #ff9800; font-weight: 600;">Automations</span>: Building tools and scripts that save time, reduce errors, and empower teams to focus on what matters most.
+</p>
+
 
 ---
 
-### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranvijay-kumar-825457255/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23584e4e?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/r_v_k)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pheonix_rvk)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/phoenix_rvk)
+<h2 align="center" style="font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; font-size: 1.7rem; font-weight: 700; color: #6c63ff; letter-spacing: 1px;">🌐 Connect with Me</h2>
+<p align="center" style="font-size: 1.1rem; font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; color: #fff; font-weight: 500;">
+  <a href="https://ranvijayk.netlify.app" style="color: #40c4ff; text-decoration: underline; font-weight: 600;">Portfolio</a> &nbsp;|&nbsp;
+  <span style="color: #00e676; font-weight: 600;">Email: <a href="mailto:rvkofficial1@gmail.com" style="color: #00e676; text-decoration: underline; font-weight: 600;">rvkofficial1@gmail.com</a></span> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/ranvijay-kumar-825457255/" style="color: #82b1ff; text-decoration: underline; font-weight: 600;">LinkedIn</a>
+</p>
+
+<h2 align="center">🏆 Problem Solving Platforms</h2>
+<p align="center">
+  <a href="https://www.codechef.com/users/r_v_k"><img src="https://img.shields.io/badge/CodeChef-%23584e4e?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://codeforces.com/profile/pheonix_rvk"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="https://www.leetcode.com/phoenix_rvk"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
 
-#### 👨‍💻 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-#### 🔙 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<div align="center">
 
-#### 🧰 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+<h2>🌐 Languages</h2>
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
 
-#### 🧪 ML, Data & AI
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<h2>🛠️ Tech Stack</h2>
+
+<table>
+  <tr>
+    <th>👨‍💻 Frontend</th>
+    <th>🔙 Backend</th>
+    <th>🧰 Tools & DevOps</th>
+    <th>🧪 ML, Data & AI</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/>
+      <!-- JavaScript is listed above in Languages -->
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/><br/>
+      <!-- TypeScript is listed above in Languages -->
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
