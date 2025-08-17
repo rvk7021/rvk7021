@@ -1,127 +1,332 @@
+# 👨‍💻 Ranvijay Kumar
+
 <div align="center">
-  <a href="https://rishavchanda.io">
-    <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" alt="Header Animation" />
-  </a>
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ranvijay%20Kumar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Building%20tomorrow,%20one%20line%20at%20a%20time&descAlignY=50&descAlign=50&descSize=24"/>
+  
+  <p align="center">
+    <i>"By day I code, by night I write — trusting that every mind carries the key to unlock challenges"</i>
+  </p>
 </div>
 
-<h1 align="center">Ranvijay Kumar - A Developer</h1>
-<h3 align="center">🚀 Full Stack Developer | ML Enthusiast | Problem Solver</h3>
-
-<p align="center"><em>"The builder who can build at 10x. You want 20x? Guess we have a conflict."</em></p>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Crafting+robust+Web+Apps;Scaling+Backends+with+Node.js;Loving+Open+Source;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=🚀+Building+scalable+web+applications;💻+Frontend+Developer;🖥️+Backend+Developer;🌐+Full-Stack+Developer;🤖+ML+Enthusiast;🧩+Problem+Solver;💡+Always+learning%2C+always+growing" alt="Typing Animation" />
 </div>
 
 ---
 
+## 🎯 About Me
 
+<div align="center">
+  <img align="right" alt="Anime Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 
-<h2 align="center">🧠 About Me</h2>
+<div align="left" style="margin-top: 20px;">
 
-<p align="center">
-<b>🧩 Passionate about building impactful digital experiences</b>, I thrive at the intersection of <b>software engineering</b> and <b>AI innovation</b>.<br>
-I enjoy architecting scalable systems, automating workflows, and solving real-world problems with code.<br>
-<b>Always learning, always building, always sharing.</b> 🚀
-</p>
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/🗡️-Code_Ninja-darkblue?style=for-the-badge&labelColor=black&color=darkblue" alt="Profile Badge"/>
+</summary>
+<br>
 
-<h3 align="center">✨ Interests</h3>
+```typescript
+const ranvijay = {
+    role: "Software Developer",
+    specialization: ["Frontend Development", "Problem Solving"],
+    languages: ["JavaScript", "TypeScript", "Python", "C++", "Java", "SQL"],
+    frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "FastAPI", "REST APIs"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL"],
+    tools: ["Git", "Docker", "VS Code", "Postman"],
+    currentFocus: "Building responsive web applications",
+    philosophy: "Clean code, efficient solutions",
+    challenge: "Solving complex problems with elegant solutions",
+    
+    // Fun facts
+    codeStyle: "Clean, readable, and efficient",
+    debugging: "Console.log() is my best friend 😄",
+    motivation: "Turning coffee into code since forever ☕",
+    superpower: "Making responsive designs that work everywhere 🌍"
+};
+```
 
-<p align="center">
-<b>Artificial Intelligence:</b> Exploring deep learning, NLP, and generative models to create smarter, more adaptive applications.<br>
-<b>Software Engineering:</b> Designing robust architectures, writing clean code, and mentoring others in best practices.<br>
-<b>Automations:</b> Building tools and scripts that save time, reduce errors, and empower teams to focus on what matters most.
-</p>
+</details>
 
+</div>
+
+### 🌟 What I Do  
+- 💻 **Frontend Development**: Designing sleek, responsive, and user-friendly interfaces  
+- 🏗️ **Web Applications**: Building scalable, secure, and maintainable full-stack solutions  
+- 🔧 **Problem Solving**: Crafting efficient algorithms and optimizing performance  
+- 📱 **Responsive Design**: Delivering seamless experiences across devices and platforms  
+- 🌱 **Continuous Growth**: Exploring new technologies and adapting to industry trends  
 
 ---
 
-
-<h2 align="center" style="font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; font-size: 1.7rem; font-weight: 700; color: #6c63ff; letter-spacing: 1px;">🌐 Connect with Me</h2>
-<p align="center" style="font-size: 1.1rem; font-family: 'Fira Sans', 'Segoe UI', Arial, sans-serif; color: #fff; font-weight: 500;">
-  <a href="https://ranvijayk.netlify.app" style="color: #40c4ff; text-decoration: underline; font-weight: 600;">Portfolio</a> &nbsp;|&nbsp;
-  <span style="color: #00e676; font-weight: 600;">Email: <a href="mailto:rvkofficial1@gmail.com" style="color: #00e676; text-decoration: underline; font-weight: 600;">rvkofficial1@gmail.com</a></span> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/ranvijay-kumar-825457255/" style="color: #82b1ff; text-decoration: underline; font-weight: 600;">LinkedIn</a>
-</p>
-
-<h2 align="center">🏆 Problem Solving Platforms</h2>
-<p align="center">
-  <a href="https://www.codechef.com/users/r_v_k"><img src="https://img.shields.io/badge/CodeChef-%23584e4e?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-  <a href="https://codeforces.com/profile/pheonix_rvk"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://www.leetcode.com/phoenix_rvk"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-</p>
-
----
-
-
+## 🛠️ Technical Skills
 
 <div align="center">
 
-<h2>🌐 Languages</h2>
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-</p>
+### 💻 Core Programming Languages
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</div>
 
-<h2>🛠️ Tech Stack</h2>
+---
+
+### 🎨 Frontend Development
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/><br/>
+        <sub><b>React.js</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/><br/>
+        <sub><b>Next.js</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/><br/>
+        <sub><b>HTML5</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/><br/>
+        <sub><b>CSS3</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/><br/>
+        <sub><b>Tailwind CSS</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ⚙️ Backend & Database
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="16.6%">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/><br/>
+        <sub><b>Node.js</b></sub>
+      </td>
+      <td align="center" width="16.6%">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/><br/>
+        <sub><b>Express.js</b></sub>
+      </td>
+      <td align="center" width="16.6%">
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/><br/>
+        <sub><b>FastAPI</b></sub>
+      </td>
+      <td align="center" width="16.6%">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/><br/>
+        <sub><b>MongoDB</b></sub>
+      </td>
+      <td align="center" width="16.6%">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/><br/>
+        <sub><b>MySQL</b></sub>
+      </td>
+      <td align="center" width="16.6%">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/><br/>
+        <sub><b>PostgreSQL</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🔧 Development Tools & DevOps
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="12.5%">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br/>
+        <sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/><br/>
+        <sub><b>Docker</b></sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/><br/>
+        <sub><b>VS Code</b></sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/><br/>
+        <sub><b>Postman</b></sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/><br/>
+        <sub><b>Cursor</b></sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/><br/>
+        <sub><b>Kubernetes</b></sub>
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/><br/>
+        <sub><b>AWS</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+</div>
+
+---
+
+## 🎯 Problem Solving & Competitive Programming
+
+<div align="center">
+
+### 📈 Problem Solving Stats
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+#### 🏆 Coding Profile
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.codechef.com/users/r_v_k">
+          <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://codeforces.com/profile/pheonix_rvk">
+          <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://www.leetcode.com/phoenix_rvk">
+          <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+#### 🎯 Key Highlights:
+- 🔥 **Daily Practice**: Consistent problem solving  
+- 🏆 **Contest Regular**: Active across all platforms  
+- 📚 **Strong DSA**: Algorithms & Data Structures expert  
+- ⚡ **Optimization**: Focus on efficient solutions  
+
+</td>
+<td width="50%" align="center">
+
+#### 📊 LeetCode Statistics
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/phoenix_rvk?theme=dark&font=Nunito&ext=contest&font_size=12)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
 
 <table>
   <tr>
-    <th>👨‍💻 Frontend</th>
-    <th>🔙 Backend</th>
-    <th>🧰 Tools & DevOps</th>
-    <th>🧪 ML, Data & AI</th>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rvk7021&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&ring_color=58A6FF" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvk7021&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" width="100%"/>
+    </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/>
-      <!-- JavaScript is listed above in Languages -->
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/><br/>
-      <!-- TypeScript is listed above in Languages -->
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+    <td colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvk7021&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C3D1D9" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
 </table>
 
+### 🔥 Pull Request Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=rvk7021&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&custom_title=Pull%20Request%20Stats&hide=stars,commits,issues,contribs&show_prs=true" alt="PR Stats" width="48%"/>
+
+### 🏆 GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=rvk7021&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="70%"/>
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rvk7021&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" alt="Contribution Graph" width="100%"/>
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🌐 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rvk7021&show_icons=true&theme=tokyonight" alt="RVK GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvk7021&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
-</p>
+<div align="center">
+
+### 🤝 Let's Network
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ranvijayk.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranvijay-kumar-825457255/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvkofficial1@gmail.com)
+
+### 📧 Let's Collaborate
+💬 **Open for**: Software Engineer roles (Frontend, Backend, Full Stack), freelancing projects, and technical discussions  
+🎯 **Interested in**: Building scalable web applications, system design, machine learning, and problem solving  
+⚡ **Response time**: Usually within 24 hours  
+🌟 **Excited to connect** with developers, teams, and collaborators worldwide!  
+
+</div>
 
 ---
 
-> _"Consistency beats intensity. Every single time."_  
-> — Ranvijay Kumar
+## 💡 Code & Life Manifesto
+
+<div align="center">
+
+*"Code is poetry written in logic, where every bug is a riddle waiting to be solved"*
+
+**Challenge Accepted** • **Failure is Fuel** • **Growth Through Grit**
+
+> **"Every problem is an opportunity in disguise. I don't fear challenges—I collect them like trophies."**
+
+> **"Failure isn't the opposite of success; it's the stepping stone to mastery. Each bug teaches, each error enlightens."**
+
+> **"Clean code always looks like it was written by someone who cares."**  
+> *— Robert C. Martin*
+
+> **"The expert in anything was once a beginner who refused to give up."**
+
+> **"Make it work, make it right, make it fast—but most importantly, make it meaningful."**  
+> *— Inspired by Kent Beck*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  
+### ⭐ Thanks for visiting! Let's build something amazing together!
+  
+<img src="https://komarev.com/ghpvc/?username=rvk7021&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+</div>
