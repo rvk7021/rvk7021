@@ -1,4 +1,4 @@
-# 👨‍💻 Ranvijay Kumar
+
 
 <div align="center">
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ranvijay%20Kumar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Building%20tomorrow,%20one%20line%20at%20a%20time&descAlignY=50&descAlign=50&descSize=24"/>
