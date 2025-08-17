@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ranvijay%20Kumar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Building%20tomorrow,%20one%20line%20at%20a%20time&descAlignY=50&descAlign=50&descSize=24"/>
   
@@ -27,28 +25,6 @@
   <img src="https://img.shields.io/badge/🗡️-Code_Ninja-darkblue?style=for-the-badge&labelColor=black&color=darkblue" alt="Profile Badge"/>
 </summary>
 <br>
-
-```typescript
-const ranvijay = {
-    role: "Software Developer",
-    specialization: ["Frontend Development", "Problem Solving"],
-    languages: ["JavaScript", "TypeScript", "Python", "C++", "Java", "SQL"],
-    frontend: ["React", "Next.js", "HTML5", "CSS3", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "FastAPI", "REST APIs"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    tools: ["Git", "Docker", "VS Code", "Postman"],
-    currentFocus: "Building responsive web applications",
-    philosophy: "Clean code, efficient solutions",
-    challenge: "Solving complex problems with elegant solutions",
-    
-    // Fun facts
-    codeStyle: "Clean, readable, and efficient",
-    debugging: "Console.log() is my best friend 😄",
-    motivation: "Turning coffee into code since forever ☕",
-    superpower: "Making responsive designs that work everywhere 🌍"
-};
-```
-
 </details>
 
 </div>
